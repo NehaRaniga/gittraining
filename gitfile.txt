@@ -1,14 +1,1 @@
-First line of git file
-
-Git second line
-
-Git add first line in motivation file
-
-<<<<<<
-Master four
-Master five
-Master six
-Master seven
-
-
-La di d
+First change for testing diff

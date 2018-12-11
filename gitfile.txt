@@ -3,3 +3,5 @@ First line of git file
 Git second line
 
 Git add first line in personal file
+
+I like blue

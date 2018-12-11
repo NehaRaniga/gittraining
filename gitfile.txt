@@ -2,4 +2,4 @@ First line of git file
 
 Git second line
 
-Git add first line in personal file
+Git add first line in motivation file

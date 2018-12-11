@@ -4,6 +4,7 @@ Git second line
 
 Git add first line in motivation file
 
+<<<<<<
 Master four
 Master five
 Master six
